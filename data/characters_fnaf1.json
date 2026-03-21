@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Freddy Fazbear",
+    "series": "FNaF1",
+    "location": ["Left Door"],
+    "counter": ["Door Close"],
+    "disable": ["Death Coin"],
+    "image": "img/fnaf1/freddy_fazbear.webp",
+    "description": "F4のCAM02にいる。ドアを閉めて対処しよう。"
+  },
+  {
+    "id": 2,
+    "name": "Bonnie",
+    "series": "FNaF1",
+    "location": ["Left Door"],
+    "counter": ["Door Close"],
+    "disable": [],
+    "image": "img/fnaf1/bonnie.webp",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Chica",
+    "series": "FNaF1",
+    "location": ["Right Door"],
+    "counter": ["Door Close"],
+    "disable": [],
+    "image": "img/fnaf1/chica.webp",
+    "description": "Chica は右側ルートを通ってオフィスに接近する。行動パターンは Bonnie と似ているが、キッチンにいるときは物音だけが聞こえ、カメラ映像が存在しないのが特徴。右ドアライトで姿を確認でき、見えたらすぐにドアを閉めることで侵入を防げる。また、Chica は時々キッチンで物を落とす音を立てるため、その音が移動の目安になる。"
+  },
+  {
+    "id": 4,
+    "name": "Foxy",
+    "series": "FNaF1",
+    "location": ["Left Door"],
+    "counter": ["Monitor"],
+    "disable": ["Heater"],
+    "image": "img/fnaf1/foxy.webp",
+    "description": "F4のCAM05にいる。ドアを閉めて対処しよう。"
+  },
+  {
+    "id": 5,
+    "name": "Yellow Bear",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": ["Mask"],
+    "disable": ["Death Coin"],
+    "image": "img/fnaf1/yellow_bear.webp",
+    "description": "Yellow Bear は突然オフィスに出現する幻覚系キャラで、出現後すぐに対処しないと画面がフリーズしゲームオーバーになる。マスクを素早く装着することで対処可能で、UltraCN ではデスコインで無効化することもできる。"
+  },
+  {
+    "id": 6,
+    "name": "Endo01",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": ["Mask"],
+    "disable": [],
+    "image": "img/fnaf1/endo01.webp",
+    "description": "アニマトロニクスの内部構造だけがむき出しになった姿で、無言でオフィスに現れる。攻撃性は低いが、マスクを装着することで消えることがある。突然の出現でプレイヤーを驚かせる演出系キャラ。"
+  },
+  {
+    "id": 7,
+    "name": "Cupcake",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/cupcake.webp",
+    "description": "Chica が持つカップケーキが独立した存在として扱われるキャラ。攻撃性はなく、オフィス内に静かに置かれているだけだが、特定のモードでは視界妨害やヒント演出として使われることがある。"
+  },
+  {
+    "id": 8,
+    "name": "Mike Schmidt",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/mike_schmidt.webp",
+    "description": "FNaF1 の主人公である夜勤警備員。UltraCN では演出キャラとして登場し、攻撃性はないが特定の条件でセリフや演出が発生することがある。"
+  },
+  {
+    "id": 9,
+    "name": "Phone Guy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": ["Mute Call"],
+    "disable": [],
+    "image": "img/fnaf1/phone_guy.webp",
+    "description": "電話で説明を行う人物。UltraCN では電話が鳴り続ける妨害キャラとして扱われ、他の音が聞こえにくくなる。ミュートボタンで対処可能。"
+  },
+  {
+    "id": 10,
+    "name": "Fan",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/fan.webp",
+    "description": "オフィスに常設されている扇風機。攻撃性はないが視界の一部を占有し、FNaF の雰囲気を強める演出キャラ。"
+  },
+  {
+    "id": 11,
+    "name": "Stuffed Freddy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/stuffed_freddy.webp",
+    "description": "中に何かが詰め込まれたような不気味なフレディ。突然オフィスに現れ、プレイヤーの集中を乱す演出キャラ。"
+  },
+  {
+    "id": 12,
+    "name": "Backstage Freddy",
+    "series": "FNaF1",
+    "location": ["Camera"],
+    "counter": ["Monitor"],
+    "disable": [],
+    "image": "img/fnaf1/backstage_freddy.webp",
+    "description": "バックヤードに佇むフレディ。カメラを開いたときに位置が微妙に変わるなど、不気味な演出を担当する背景キャラ。"
+  },
+  {
+    "id": 13,
+    "name": "Stage Freddy",
+    "series": "FNaF1",
+    "location": ["Camera"],
+    "counter": ["Monitor"],
+    "disable": [],
+    "image": "img/fnaf1/stage_freddy.webp",
+    "description": "ステージに立つフレディ。カメラを開くたびに表情や姿勢が微妙に変化することがあり、原作の不気味さを再現している。"
+  },
+  {
+    "id": 14,
+    "name": "Jumpscare Freddy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/jumpscare_freddy.webp",
+    "description": "突然画面に飛び出してくるジャンプスケア専用キャラ。ゲームオーバーには直結しないが、視界を覆ってプレイヤーを驚かせる。"
+  },
+  {
+    "id": 15,
+    "name": "String Freddy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/string_freddy.webp",
+    "description": "糸で吊られたような奇妙なフレディ。動きはほとんどないが、その異様な見た目で不安感を与える演出キャラ。"
+  },
+  {
+    "id": 16,
+    "name": "Poster Yellow Bear",
+    "series": "FNaF1",
+    "location": ["Camera"],
+    "counter": ["Monitor"],
+    "disable": [],
+    "image": "img/fnaf1/poster_yellow_bear.webp",
+    "description": "特定のカメラでポスターが黄色いクマに変化する現象を再現したキャラ。幻覚イベントの前兆として扱われることがある。"
+  },
+  {
+    "id": 17,
+    "name": "Jumpscare Yellow Bear",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/jumpscare_yellow_bear.webp",
+    "description": "Yellow Bear のジャンプスケア専用バージョン。突然画面に飛び出し、視界を一瞬で覆う。"
+  },
+  {
+    "id": 18,
+    "name": "Hallucination Freddy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/hallucination_freddy.webp",
+    "description": "黒目のフレディとして現れる幻覚キャラ。一瞬だけ姿を見せて消え、画面が暗転するなどの演出を行う。"
+  },
+  {
+    "id": 19,
+    "name": "Hallucination Bonnie Gang",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/hallucination_bonnie_gang.webp",
+    "description": "複数のボニーが同時に現れる幻覚イベントを再現したキャラ。視界を乱し、他キャラの接近を見逃しやすくする。"
+  },
+  {
+    "id": 20,
+    "name": "Cheat Classics",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/cheat_classics.webp",
+    "description": "クラシックチートをモチーフにしたキャラ群。古い UI やキャラが重ねて表示され、視界を妨害する演出を行う。"
+  },
+  {
+    "id": 21,
+    "name": "Loading Clock",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/loading_clock.webp",
+    "description": "読み込み画面に登場する時計アイコン。時間が止まったような演出を発生させることがある。"
+  },
+  {
+    "id": 22,
+    "name": "Lives Guy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/lives_guy.webp",
+    "description": "残機表示をモチーフにしたキャラ。残機が減る演出と連動して出現することがある。"
+  },
+  {
+    "id": 23,
+    "name": "Beaver and Wolf",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/beaver_and_wolf.webp",
+    "description": "ビーバーとオオカミのコンビキャラ。視界の一部を占有し、他キャラの接近を見えにくくする妨害演出を行う。"
+  },
+  {
+    "id": 24,
+    "name": "Plush Gang",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/plush_gang.webp",
+    "description": "複数のぬいぐるみが集まったキャラ群。ランダムな位置に出現し、視界妨害や音声演出を行う。"
+  },
+  {
+    "id": 25,
+    "name": "Feddy",
+    "series": "FNaF1",
+    "location": ["Office"],
+    "counter": [],
+    "disable": [],
+    "image": "img/fnaf1/feddy.webp",
+    "description": "フレディのパロディキャラ。コミカルな動きでプレイヤーを混乱させる軽い妨害キャラ。"
+  }
+]

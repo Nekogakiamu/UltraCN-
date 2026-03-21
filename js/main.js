@@ -20,6 +20,11 @@ function renderCharacters(list) {
         ${c.description}
       </div>
     `;
+    div.addEventListener("click", () => {
+      const tooltip = div.querySelector(".tooltip");
+      const isVisible = tooltip.style.display === "block";
+      tooltip.style.display = isVisible ? "none" : "block";
+    });
 
     grid.appendChild(div);
   });

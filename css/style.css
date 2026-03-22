@@ -1,0 +1,59 @@
+body {
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.series-title {
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: #ffcc66;
+  text-shadow: 0 0 5px #000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.character {
+  cursor: pointer;
+  padding: 10px;
+  background: #222;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+
+.character:hover {
+  background: #333;
+}
+
+.character img {
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+.char-name {
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.char-desc {
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  background: rgba(0,0,0,0.85);
+  border: 1px solid #555;
+  border-radius: 5px;
+  text-align: left;
+  color: white;
+}
+
+.char-desc.open {
+  display: block;
+}

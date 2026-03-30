@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Springtrap",
+    "series": "FNaF3",
+    "image": "img/fnaf3/springtrap.webp",
+    "description": "ベントに現れる。ベントスネアが効かない。入口まで来ても、オフィスに顔をのぞかせてから襲撃してくるため、ベントドアを閉めて対処可能。"
+  },
+  {
+    "name": "Phantom Freddy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_freddy.webp",
+    "description": "オフィスを右から左へ動き、クリックするとジャンプスケアと共にカメラと空調がエラーになる。"
+  },
+  {
+    "name": "Phantom Chica",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_chica.webp",
+    "description": "カメラを見ていると現れる。カメラを切り替えて対処。モニターを下げてはいけない。襲われるとジャンプスケアと共にオーディオ、カメラエラーになる。"
+  },
+  {
+    "name": "Phantom Balloon Boy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_balloon_boy.webp",
+    "description": "カメラを見ていると現れる。カメラまたはシステムの切り替え、モニターを閉じことで対処可能。侵入されるとモニターが強制的に閉じ、画面が一時的にブラックアウトする。"
+  },
+  {
+    "name": "Phantom Foxy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_foxy.webp",
+    "description": "オフィスの左ドアに現れる。長い時間見続けるとジャンプスケアと共に何かしらのエラーを起こす。"
+  },
+  {
+    "name": "Phantom Mangle",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_mangle.webp",
+    "description": "カメラを見ていると現れる。システムを切り替えるかモニターを閉じることで対処できる。侵入されるとモニターが強制的に閉じ、ノイズゲージが10秒間上昇する。"
+  },
+  {
+    "name": "Phantom Puppet",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phantom_puppet.webp",
+    "description": "ベントカメラに出現。見続けてしまうとオフィスに現れ、画面妨害とノイズが発生する。"
+  },
+  {
+    "name": "The Security Guard",
+    "series": "FNaF3",
+    "image": "img/fnaf3/the_security_guard.webp",
+    "description": "ヒーターを長時間使用すると、オーディオルアーとベントスネアが自動で変わってしまう。"
+  },
+  {
+    "name": "Phone Dude",
+    "series": "FNaF3",
+    "image": "img/fnaf3/phone_dude.webp",
+    "description": "オフィスに現れ、騒音ゲージを上昇させる。画面のどこかに現れるMute Callボタンをクリックすることで撃退が可能。"
+  },
+  {
+    "name": "Shadow Cupcake",
+    "series": "FNaF3",
+    "image": "img/fnaf3/shadow_cupcake.webp",
+    "description": "カメラを見ていると現れる。見つけたらクリックして対処。カメラを切り替えてはいけない。襲撃された場合、モニターが強制的に閉じる。"
+  },
+  {
+    "name": "Crumpled Freddy Suit",
+    "series": "FNaF3",
+    "image": "img/fnaf3/crumpled_freddy_suit.webp",
+    "description": "オフィス左側に存在する。オフィスにいる限り無限に襲撃してくる。襲撃されると空調エラーが発生する。襲撃のトリガーは累計10秒間オフィスにいること。"
+  },
+  {
+    "name": "Freddy Stand",
+    "series": "FNaF3",
+    "image": "img/fnaf3/freddy_stand.webp",
+    "description": "カメラを見ていると出現。カメラに長時間映すと空調エラーが発生する。"
+  },
+  {
+    "name": "Bonnie Stand",
+    "series": "FNaF3",
+    "image": "img/fnaf3/bonnie_stand.webp",
+    "description": "オフィスにいる。効果音と共に倒れる。倒れていると電力を消費する。クリックして起こすことができる。"
+  },
+  {
+    "name": "Chika Head",
+    "series": "FNaF3",
+    "image": "img/fnaf3/chika_head.webp",
+    "description": "画面の半分を隠してしまう。オフィスにあるチカの頭をクリックすると視認範囲が逆転する。"
+  },
+  {
+    "name": "Hotdog",
+    "series": "FNaF3",
+    "image": "img/fnaf3/hotdog.webp",
+    "description": "定期的に食べないと死ぬ。毒メーターが高い状態で食べても死ぬ。"
+  },
+  {
+    "name": "Jumpscare Phantom Balloon Boy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/jumpscare_phantom_balloon_boy.webp",
+    "description": "カメラを見ていると現れる。彼を長時間見ると画面の色が反転する。"
+  },
+  {
+    "name": "Crying Child",
+    "series": "FNaF3",
+    "image": "img/fnaf3/crying_child.webp",
+    "description": "4時以降、ガワを被った状態で左右をむきすぎると死ぬ。"
+  },
+  {
+    "name": "Purple Freddy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/purple_freddy.webp",
+    "description": "制限時間内にカメラで見つけないといけない。"
+  },
+  {
+    "name": "Air Balloon Boy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/air_balloon_boy.webp",
+    "description": "サイドベントから親友してくる。侵入されるとカーソルに風船が付き、カーソルが浮く。オフィスにいる彼に風船を渡さないと風船が外れない。カーソルが画面上部に行くと死ぬ。"
+  },
+  {
+    "name": "Crying Balloon Boy",
+    "series": "FNaF3",
+    "image": "img/fnaf3/crying_balloon_boy.webp",
+    "description": "笑い声が聞こえたらFGのグリッチエリアで見つめて撃退する。"
+  },
+  {
+    "name": "Crying Puppet",
+    "series": "FNaF3",
+    "image": "img/fnaf3/crying_puppet.webp",
+    "description": "モード変更をするたびに現れ、だんだんと薄くなる。GMBを点けると早く消えていく。"
+  },
+  {
+    "name": "The Moon",
+    "series": "FNaF3",
+    "image": "img/fnaf3/the_moon.webp",
+    "description": "GPSエリアでルアーを使った後、FRエリアで倒さないといけない。早めに倒してもいけない。"
+  },
+  {
+    "name": "Stage 01 Crew",
+    "series": "FNaF3",
+    "image": "img/fnaf3/stage_01_crew.webp",
+    "description": "4時になったら、395248と入力しエンターを押そう。"
+  },
+  {
+    "name": "RWQFSFASXC & RWQFSFASXC",
+    "series": "FNaF3",
+    "image": "img/fnaf3/minigame_rwqfsfasxc_and_rwqfsfasxc_.webp",
+    "description": "カメラがFGのグリッチエリアに固定された場合、オフィスで彼を見つけよう。"
+  },
+  {
+    "name": "Cheattrap",
+    "series": "FNaF3",
+    "image": "img/fnaf3/cheattrap.webp",
+    "description": "F3にいる。彼がいる部屋でplay audioを使ってエレベーターから遠ざけよう。"
+  },
+  {
+    "name": "Glitchedtrap",
+    "series": "FNaF3",
+    "image": "img/fnaf3/glitchedtrap.webp",
+    "description": "エラーが発生すると彼の幻覚が現れる。"
+  }
+]

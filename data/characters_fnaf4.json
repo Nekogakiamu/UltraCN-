@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Nightmare Freddy",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_freddy.webp",
+    "description": "1夜につき1度出現する。オフィスに現れたら襲われる前に時計をクリックしよう。時計をクリックすると数秒間FNaF4に閉じ込められる。"
+  },
+  {
+    "name": "Nightmare Bonnie",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_bonnie.webp",
+    "description": "彼が1FのCAM02に現れた場合、プライズコーナーで彼の人形を購入しよう。彼が現れる時間は、奇数時である。"
+  },
+  {
+    "name": "Nightmare Chica",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_chica.webp",
+    "description": "オフィス内に牙が迫ってきたら彼女の登場した合図。PowerA/Cを使用することで牙を押し返すことができる。"
+  },
+  {
+    "name": "Nightmare Foxy",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_foxy.webp",
+    "description": "ベントに出現。ベントスネアやドア閉めで対処可能。"
+  },
+  {
+    "name": "Nightmare Fredbear",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_fredbear.webp",
+    "description": "カメラに映らない特性を持つ。侵入直前になるとドアに目が浮かび、侵入する際に笑い声を発生させる。対応するドアを閉めて対処しよう。"
+  },
+  {
+    "name": "Nightmare",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare.webp",
+    "description": "2回連続で笑い声が聞こえたらドアを閉めよう。"
+  },
+  {
+    "name": "Plushtrap",
+    "series": "FNaF4",
+    "image": "img/fnaf4/plushtrap.webp",
+    "description": "ライトシステムでFun With Plushtrapを5時までにクリアしよう。ゲームをスタートしたら足音がしたらライトで照らすことでクリアできる。足音がかなり小さい。"
+  },
+  {
+    "name": "Freddles",
+    "series": "FNaF4",
+    "image": "img/fnaf4/freddles.webp",
+    "description": ""
+  },
+  {
+    "name": "Nightmare Cupcake",
+    "series": "FNaF4",
+    "image": "img/fnaf4/nightmare_cupcake.webp",
+    "description": "オフィスにいると出現。オフィスにいる時間が長いと襲撃してくるため、定期的にカメラを見よう。"
+  },
+  {
+    "name": "Bite Victim",
+    "series": "FNaF4",
+    "image": "img/fnaf4/bite_victim.webp",
+    "description": "F2のCAM07にいる、定期的に監視しないと泣き続け、最終的にガワを被ったときに涙におぼれて死んでしまう。"
+  },
+  {
+    "name": "Another Day Fredbear",
+    "series": "FNaF4",
+    "image": "img/fnaf4/another_day_fredbear.webp",
+    "description": "2時までにF3でAiレベル×1.5枚のピザを集めよう。"
+  },
+  {
+    "name": "Fredbear Person",
+    "series": "FNaF4",
+    "image": "img/fnaf4/fredbear_person.webp",
+    "description": "画面に強いブルーム効果を適用する。"
+  },
+  {
+    "name": "Fredbear Flower",
+    "series": "FNaF4",
+    "image": "img/fnaf4/fredbear_flower.webp",
+    "description": "最近使用していたカメラに現れ、有害な弾を飛ばしてくる。"
+  },
+  {
+    "name": "The Protagonist",
+    "series": "FNaF4",
+    "image": "img/fnaf4/the_protagonist.webp",
+    "description": "Silent Ventilationを使っていない時間が長いと、懐中電灯、左右のドアの開閉が勝手に行われるようになる。"
+  },
+  {
+    "name": "Mirrored Plushtrap",
+    "series": "FNaF4",
+    "image": "img/fnaf4/mirrored_plushtrap.webp",
+    "description": "UVライトを使わないとどんどん大きくなっていく。"
+  },
+  {
+    "name": "Cheatmares",
+    "series": "FNaF4",
+    "image": "img/fnaf4/cheatmares.webp",
+    "description": "ダクトシステムの右下にいる。襲われないように適宜ライトを当てよう。"
+  },
+  {
+    "name": "Protomare Foxy",
+    "series": "FNaF4",
+    "image": "img/fnaf4/protomare_foxy.webp",
+    "description": "出現の合図が聞こえたらベントドアを閉めよう。"
+  },
+  {
+    "name": "Protomare Fredbear 1",
+    "series": "FNaF4",
+    "image": "img/fnaf4/protomare_fredbear1.webp",
+    "description": "ダクトシステムの右下にいる。場所を確認した後、現実のドアを閉めて対処する。"
+  },
+  {
+    "name": "Protomare Fredbear 5",
+    "series": "FNaF4",
+    "image": "img/fnaf4/protomare_fredbear5.webp",
+    "description": ""
+  },
+ ]

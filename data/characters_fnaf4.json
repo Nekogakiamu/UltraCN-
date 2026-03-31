@@ -45,7 +45,7 @@
     "name": "Freddles",
     "series": "FNaF4",
     "image": "img/fnaf4/freddles.webp",
-    "description": ""
+    "description": "カメラを見ていると特徴的な音とともにオフィスに出現。そのまま放置していると襲撃されるため、オフィスでライトを使って定期的に対処しよう。"
   },
   {
     "name": "Nightmare Cupcake",
@@ -111,6 +111,6 @@
     "name": "Protomare Fredbear 5",
     "series": "FNaF4",
     "image": "img/fnaf4/protomare_fredbear5.webp",
-    "description": ""
+    "description": "オフィスに出現。出現したらダクトシステムのライトをクリックして撃退しよう。(無害)"
   }
 ]

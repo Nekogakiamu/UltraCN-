@@ -3,36 +3,36 @@
     "name": "Jack-O-Bonnie",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/jack_o_bonnie.webp",
-    "description": ""
+    "description": "室温が高いと徐々に現れるので、実体化する前に室温を下げよう。"
   },
   {
     "name": "Jack-O-Chica",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/jack_o_chica.webp",
-    "description": ""
+    "description": "温度が90°を越えると1FのCAM01、02に出現。100°を越えるとドアを閉めていても問答無用で侵入し襲撃する。彼女がいなくなるまで温度を下げよう。"
   },
   {
     "name": "Nightmare Mangle",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/nightmare_mangle.webp",
-    "description": ""
+    "description": "彼が1FのCAM02に現れた場合、プライズコーナーで彼の人形を購入しよう。彼が現れる時間は、奇数時である。"
   },
   {
     "name": "Nightmarionne",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/nightmarionne.webp",
-    "description": ""
+    "description": "オフィスに現れる。彼にカーソルを重ねると襲撃されてしまう。"
   },
   {
     "name": "Nightmare Balloon Boy",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/nightmare_balloon_boy.webp",
-    "description": ""
+    "description": "普段はオフィスで眠っているが、モニターを上げると起き上がることがある。起き上がっているときにカメラを開くと襲われるため、ライトを当てて再度眠らせよう。"
   },
   {
     "name": "Pumpkin Squad",
     "series": "Halloween Edition",
     "image": "img/halloween_edition/pumpkin_squad.webp",
-    "description": ""
+    "description": "モニターを下ろす度に出現。4つ溜まるとジャンプスケアと共に温度を急上昇させる。クーラーで対処可能。"
   }
 ]

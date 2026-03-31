@@ -3,211 +3,211 @@
     "name": "Adventure Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_freddy.webp",
-    "description": ""
+    "description": "ドアを閉めていると反対側のドアからピザが移動し、ドアを勝手に開ける。"
   },
   {
     "name": "Adventure Bonnie",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_bonnie.webp",
-    "description": ""
+    "description": "AIレベル×2秒間ギターを鳴らす。(騒音ゲージは上がらない。)"
   },
   {
     "name": "Adventure Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_chica.webp",
-    "description": ""
+    "description": "画面上から降ってくるカップケーキを拾い続けないと死ぬ。"
   },
   {
     "name": "Adventure Foxy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_foxy.webp",
-    "description": ""
+    "description": "広告を再生してくる。SKIPを押すかENTERキーを押そう。"
   },
   {
     "name": "Adventure Toy Bonnie",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_toy_bonnie.webp",
-    "description": ""
+    "description": "F2のCAM05に出現。カメラで視認した後、ガワを被ると撃退可能。"
   },
   {
     "name": "Adventure Toy Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_toy_chica.webp",
-    "description": ""
+    "description": "F2のCAM06に出現。カメラで視認した後、ガワを被ると撃退可能。"
   },
   {
     "name": "Adventure Toy Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_toy_freddy.webp",
-    "description": ""
+    "description": "インターネットゲージが0になると襲ってくる。"
   },
   {
     "name": "Adventure Mangle",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_mangle.webp",
-    "description": ""
+    "description": "画面上から降ってくるホッパーが破裂すると画面に衝撃が走る。"
   },
   {
     "name": "Adventure Balloon Boy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_balloon_boy.webp",
-    "description": ""
+    "description": "カメラを見ているとサイドベントから侵入してくる。侵入されるとベントスネアが使用不可になる。"
   },
   {
     "name": "Adventure JJ",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_jj.webp",
-    "description": ""
+    "description": "カメラを見ているとサイドベントから侵入してくる。侵入されるとオーディオルアーが使用不可になる。"
   },
   {
     "name": "Adventure Phantom Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_freddy.webp",
-    "description": ""
+    "description": "オフィスに出現。空調、オーディオエラーを引き起こす。システムを全てオフにすることで撃退可能。"
   },
   {
     "name": "Adventure Phantom Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_chica.webp",
-    "description": ""
+    "description": "F4のどこかに出現することがある。彼女が出現すると、その場所のカメラボタンが緑色になる。そのカメラを見ることで撃退可能。もし彼女が襲撃すると、すべてのシステムをエラーにする。"
   },
   {
     "name": "Adventure Phantom Balloon Boy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_balloon_boy.webp",
-    "description": ""
+    "description": "オフィスに風船が出現する。風船を連打で割らないと毒メーターが上がって空調エラーが発生する。"
   },
   {
     "name": "Adventure Phantom Foxy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_foxy.webp",
-    "description": ""
+    "description": "カメラを見ているとオフィスに出現する。ライトを当てないとジャンプスケアをし、オフィス内を一定時間見まわせなくする。"
   },
   {
     "name": "Adventure Phantom Mangle",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_mangle.webp",
-    "description": ""
+    "description": "ベントから攻撃を仕掛けてくる。ベントを閉めるとベントドアが一定時間使用不可になり、ベントドアを閉めないとピザで画面を隠してくる。レバーを引くと消える。"
   },
   {
     "name": "Adventure Withered Bonnie",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_withered_bonnie.webp",
-    "description": ""
+    "description": "F3のどこかにいる。電力の15%を奪われる前にカメラで監視して、目の明かりを消そう。"
   },
   {
     "name": "Adventure Withered Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_withered_chica.webp",
-    "description": ""
+    "description": "オフィスに出現。ホットドッグを食べさせないように、ホットドッグを遠ざけよう。"
   },
   {
     "name": "Adventure Withered Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_withered_freddy.webp",
-    "description": ""
+    "description": "騒音ゲージが0だと出現。歌うだけ。"
   },
   {
     "name": "Adventure Withered Foxy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_withered_foxy.webp",
-    "description": ""
+    "description": "F2のCAM04に出現。ライトを連打して撃退しよう。"
   },
   {
     "name": "Adventure Shadow Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_shadow_freddy.webp",
-    "description": ""
+    "description": "毎時30分に画面妨害をする。その時にシステムエラーを少なくとも1つ引き起こす。"
   },
   {
     "name": "Adventure Puppet",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_puppet.webp",
-    "description": ""
+    "description": "オフィスに現れる。画面上からプライズボールを落としてくる。下まで落ちると様々な厄介なことが起こる。GMBで対策可能。"
   },
   {
     "name": "Adventure Phantom Puppet",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_phantom_puppet.webp",
-    "description": ""
+    "description": "オフィス右ドアに現れる。空調、オーディオエラーを引き起こす。GMBで対処しよう。"
   },
   {
     "name": "Adventure Golden Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_golden_freddy.webp",
-    "description": ""
+    "description": "フロアを移動すると幻覚と共に出現する。ガワを被って撃退しよう。"
   },
   {
     "name": "Adventure Paperpals",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_paperpals.webp",
-    "description": ""
+    "description": "たまにジャンプスケアをしてくる。死にはしない。"
   },
   {
     "name": "Adventure Nightmare Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_nightmare_freddy.webp",
-    "description": ""
+    "description": "フレドルズが画面右からくるので、全員クリックして捕まえよう。"
   },
   {
     "name": "Adventure Nightmare Bonnie",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_nightmare_bonnie.webp",
-    "description": ""
+    "description": "FCにいる。雨にカーソルが当たると一定時間ドアが壊れてしまう。"
   },
   {
     "name": "Adventure Nightmare Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_nightmare_chica.webp",
-    "description": ""
+    "description": "カメラシステムの一つをBad Pizzaにしてしまう。それを押すと毒メーターが急上昇してしまう。"
   },
   {
     "name": "Adventure Nightmare Foxy",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_nightmare_foxy.webp",
-    "description": ""
+    "description": "ホットチーズがあると温度が上昇してしまうので、PowerA/Cをつけながらレバーを数回引こう。"
   },
   {
     "name": "Adventure Endo 01",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_endo01.webp",
-    "description": ""
+    "description": "ベントから3体同時に攻撃してくるので、ベントスネアで対処しよう。"
   },
   {
     "name": "Adventure Endo 02",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_endo02.webp",
-    "description": ""
+    "description": "ベントにいる。矢印をクリックして進行方向を変えよう。"
   },
   {
     "name": "Adventure Plushtrap",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_plushtrap.webp",
-    "description": ""
+    "description": "ライトシステムの床に座っている。一夜に一度ライトシステムから逃げ出すので、カメラで見つけよう。"
   },
   {
     "name": "Endoplush",
     "series": "FNaF World",
     "image": "img/fnaf_world/endoplush.webp",
-    "description": ""
+    "description": "毎時、ファズコインがすべて消失するビームを撃ってくる。"
   },
   {
     "name": "Adventure Springtrap",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_springtrap.webp",
-    "description": ""
+    "description": "オフィスにいる。定期的にライトを当てないと空調エラーが発生し、電力が5%失われる。"
   },
   {
     "name": "Adventure RWQFSFASXC",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_rwqfsfasxc.webp",
-    "description": ""
+    "description": "5時になったらRWQFSFASXCと入力しよう。失敗するとカメラが使用不可になる。"
   },
   {
     "name": "Adventure Crying Child",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_crying_child.webp",
-    "description": ""
+    "description": "オフィスに現れる。机の上に彼がいる状態でモニターを上げるとガワに閉じ込められてしまう。クリックして対処可能。"
   },
   {
     "name": "Adventure Funtime Foxy",

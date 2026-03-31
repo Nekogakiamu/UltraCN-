@@ -390,78 +390,79 @@
     "description": ""
   },
   {
-    "name": "Challenger Phantom Chica"
+    "name": "Challenger Phantom Chica",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_phantom_chica.webp",
     "description": ""
   },
   {
-    "name": "Challenger Withered Foxy"
+    "name": "Challenger Withered Foxy",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_withered_foxy.webp",
     "description": ""
   },
   {
-    "name": "Challenger Phantom Puppet"
+    "name": "Challenger Phantom Puppet",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_phantom_puppet.webp",
     "description": ""
   },
   {
-    "name": "Challenger Golden Freddy"
+    "name": "Challenger Golden Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_golden_freddy.webp",
     "description": ""
   },
   {
-    "name": "Challenger Nightmare Freddy"
+    "name": "Challenger Nightmare Freddy",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_nightmare_freddy.webp",
     "description": ""
   },
   {
-    "name": "Challenger Plushtrap"
+    "name": "Challenger Plushtrap",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_plushtrap.webp",
     "description": ""
   },
   {
-    "name": "Challenger Fredbear"
+    "name": "Challenger Fredbear",
     "series": "FNaF World",
     "image": "img/fnaf_world/challenger_fredbear.webp",
     "description": ""
   },
   {
-    "name": "Adventure Fan"
+    "name": "Adventure Fan",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_fan.webp",
     "description": ""
   },
   {
-    "name": "Tombstone"
+    "name": "Tombstone",
     "series": "FNaF World",
     "image": "img/fnaf_world/tombstone.webp",
     "description": ""
   },
   {
-    "name": "Adventure_Lolbit"
+    "name": "Adventure_Lolbit",
     "series": "FNaF World",
     "image": "img/fnaf_world/adventure_lolbit.webp",
     "description": ""
   },
   {
-    "name": "Deedee"
+    "name": "Deedee",
     "series": "FNaF World",
     "image": "img/fnaf_world/deedee.webp",
     "description": ""
   },
   {
-    "name": "Mendo"
+    "name": "Mendo",
     "series": "FNaF World",
     "image": "img/fnaf_world/mendo.webp",
     "description": ""
-  },  {
-    "name": "Titanium Endo"
+  },  
+  {
+    "name": "Titanium Endo",
     "series": "FNaF World",
     "image": "img/fnaf_world/titanium_endo.webp",
     "description": ""
